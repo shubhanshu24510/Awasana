@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Awasana</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="fc2_nature_meditations">Nature Meditation</string>
+    <string name="architecture">Architecture</string>
+    <string name="craft">Crafts</string>
+    <string name="business">business</string>
+    <string name="drawing">drawing</string>
+    <string name="fashion">fashion</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="fav_cloo">Favorite Collection</string>
+    <string name="Home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="game">Gaming</string>
+    <string name="paint">Painting</string>
+    <string name="fil">Film</string>
+    <string name="cul">Culinary</string>
+    <string name="mus">Music</string>
+    <string name="tech">Technology</string>
+    <string name="ab2_quick_yoga">Yoga</string>
+    <string name="photo">Photography</string>
+
+
+</resources>
